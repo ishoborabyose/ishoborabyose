@@ -1,6 +1,6 @@
 
 - Hi there, I am Ishoborabyose👋 
-- 👀 I’m interested in everything
+- 👀 I’m interested in solving problems
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with content creators
 - 📫 How to reach me: ishoborabyosebeatrice@gmail.com
