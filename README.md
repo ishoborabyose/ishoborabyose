@@ -9,10 +9,10 @@ new technologies.</p>
 
 #### Stacks I have worked with
 
-- FrontEnd :  React, Next.js, React-Native, Tailwind CSS, Remix.js , Gatsby.js, Flutter+Dart
-- BackEnd : Node-Express
-- DataBase : Postgres, MySql  
-- Things I am currently experimenting with : TypeScript, Three.js, Svelte, ...
+- FrontEnd: React, Next.js, React-Native, Tailwind CSS, Remix.js, Gatsby.js, Flutter+Dart
+- BackEnd: Node-Express
+- Database: Postgres, MySql  
+- Things I am currently experimenting with: TypeScript, Three.js, Svelte, ...
 <br/>
 
 
@@ -25,7 +25,7 @@ new technologies.</p>
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with content creators
 - 📫 How to reach me: ishoborabyosebeatrice@gmail.com
-- ❤ Fun fact: i love reading and children
+- ❤ Fun fact: I love reading and children
 
 <!-- - 📝 [Resume]) -->
 
