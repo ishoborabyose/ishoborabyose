@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Beatrice 👨‍
+### Hi there 👋, I'm Ishoborabyose 👨‍
 
 <br/>
 
@@ -27,7 +27,7 @@ new technologies.</p>
 - 📫 How to reach me: ishoborabyosebeatrice@gmail.com
 - ❤ Fun fact: i love reading and children
 
-<!-- - 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj) -->
+<!-- - 📝 [Resume]) -->
 
 ### 🛠️ Languages and Tools:
 
@@ -35,15 +35,18 @@ new technologies.</p>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="" />
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+ <img src="https://img.shields.io/badge/Babel-000000?style=flat-square&logo=babel&logoColor=white" alt="" />
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
-![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+ <img src="https://img.shields.io/badge/Swagger-000000?style=flat-square&logo=Swagger&logoColor=white" alt="" />
+ <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwind-css&logoColor=white" alt="" />
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
@@ -55,8 +58,10 @@ new technologies.</p>
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest)
-![Node.js](https://img.shields.io/badge/-Node-black?style=flat-square&logo=Node.js)
 ![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=Chai)
+ <img src="	https://img.shields.io/badge/Mocha-000000?style=flat-square&logo=Mocha&logoColor=white" alt="" />
+ <img src="https://img.shields.io/badge/flutter-000?style=flat-square&logo=flutter&logoColor=white" alt="" />
+ <img src="https://img.shields.io/badge/dart-000?style=flat-square&logo=dart&logoColor=white" alt="" />
 
 #### Connect with me : 
  <a href="https://www.codewars.com/users/IshoborabyoseBeatrice"> <img src="https://www.codewars.com/users/IshoborabyoseBeatrice/badges/micro" /></a>
