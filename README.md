@@ -16,8 +16,8 @@ new technologies.</p>
 <br/>
 
 
-  <img align="right" alt="Ishoborabyose's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ishoborabyose&show_icons=true$hide_border=true" />
-<!--   <img align="right" alt="Ishoborabyose's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ishoborabyose&show_icons=true$hide_border=true" />  -->
+<!--   <img align="right" alt="Ishoborabyose's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ishoborabyose&show_icons=true$hide_border=true" /> -->
+  <img align="right" alt="Ishoborabyose's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ishoborabyose&show_icons=true$hide_border=true" /> 
 
   
 ### ✨ Quick Facts
